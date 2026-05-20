@@ -1,16 +1,30 @@
-## Hi there 👋
+### Alfmir.ai
 
-<!--
-**lochner-lw/lochner-lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Alfmir.ai](https://alfmir.ai) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
+https://github.com/alfmir-ai  
 
-Here are some ideas to get you started:
+### Lochner Apparel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Lochner Apparel](https://www.ebay.com/str/lochnerapparel) AI-Generated Apparel on eBay, Amazon, and Shopify https://www.ebay.com/str/lochnerapparel  
+
+### [More Projects Click Here](https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md)  
+
+https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md
+
+## Contact
+
+engineering@lochner.tech
+
+---
+
+_by [Lochner Tech](https://lochner.tech)_  
+https://github.com/lochner-technology  
+
+https://www.linkedin.com/in/nicholaslochner
+
+https://freelancer.com/hireme/nlochner
+
+https://www.npmjs.com/~lochner-lw
+
+
+
