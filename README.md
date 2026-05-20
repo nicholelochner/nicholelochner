@@ -1,4 +1,4 @@
-### Alfmir.ai
+### Alfmir.ai | Agentic Software Development
 
 [Alfmir.ai](https://alfmir.ai) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
 https://github.com/alfmir-ai  
