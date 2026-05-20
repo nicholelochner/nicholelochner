@@ -167,7 +167,7 @@ The writeup is also available in this repository: https://github.com/njlochner/A
 
 ### Logistica - eCommerce
 
-Logistica is a self-hostable backend automation system I built as part of Lochner Technology / Alfe Ai / Lochner Apparel.
+Logistica is a self-hostable backend automation system I built as part of Lochner Technology / Alfmir.ai / Lochner Apparel.
 It syncs e-commerce operations across Shopify, eBay, Amazon, and more.
 
 It was originally built to sell power cables on Amazon FBA and is being repurposed for Lochner Apparel shirts.
