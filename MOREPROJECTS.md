@@ -181,6 +181,7 @@ Includes SKU-based shipping rules, order syncing, and robust error handling with
 Used by Lochner Apparel for multi-channel publishing and fulfillment.
 Tech stack: Node.js, SQL, REST APIs, OAuth.
 
+---
 
 ### Sands of Creation
 
