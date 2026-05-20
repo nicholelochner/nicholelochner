@@ -2,7 +2,7 @@ https://github.com/lochner-lw
 
 ### Alfmir.ai / Lochner Apparel
 
-[alfmir.ai](https://alfmir.ai) - Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
+[Alfmir.ai](https://alfmir.ai) - Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design
 https://github.com/alfmir-ai  
 
 [Lochner Apparel](https://www.ebay.com/str/lochnerapparel) AI-Generated Apparel on eBay, Amazon, and Shopify https://www.ebay.com/str/lochnerapparel  
