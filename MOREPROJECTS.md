@@ -165,6 +165,8 @@ This repository contains my portion of the code for our final project for CS498 
 
 The writeup is also available in this repository: https://github.com/njlochner/AirTarget-DynamicData/blob/master/AirTarget-Writeup.pdf 
 
+---
+
 ### Logistica - eCommerce
 
 Logistica is a self-hostable backend automation system I built as part of Lochner Technology / Alfmir.ai / Lochner Apparel.
