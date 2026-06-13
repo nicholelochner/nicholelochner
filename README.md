@@ -21,9 +21,7 @@ engineering@lochner.tech
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-technology  
 
-https://www.linkedin.com/in/nicholaslochner
-
-https://freelancer.com/hireme/nlochner
+https://www.linkedin.com/in/nicholelochner
 
 https://www.npmjs.com/~lochner-lw
 
