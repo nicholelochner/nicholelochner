@@ -23,6 +23,8 @@ https://github.com/lochner-technology
 
 https://www.linkedin.com/in/nicholelochner
 
+https://bsky.app/profile/alfmir-ai.bsky.social
+
 https://www.npmjs.com/~lochner-lw
 
 https://www.freelancer.com/u/nlochner
