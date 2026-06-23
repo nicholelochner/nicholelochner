@@ -1,4 +1,4 @@
-### Alfmir.ai Beta | Agentic Software Development
+### Alfmir.ai Beta | Privacy-first AI | Agentic Software Development
 
 [Alfmir.ai](https://alfmir.ai) Free, Libre, Self-hostable, AI Software Development, Chat, and Image Design  
 MIT License  
