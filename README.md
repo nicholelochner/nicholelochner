@@ -31,7 +31,7 @@ https://www.freelancer.com/u/nlochner
 
 ☮
 
-I am being actively (UNCONSTITUTIONALLY) harassed by the U.S. Government / Secret Service due to being transgender. I am a non-violent individual. If I die, It was not suicide. I am not suicidal.  
+I am being actively (UNCONSTITUTIONALLY) harassed by the U.S. Government / Secret Service due to being transgender. I am a non-violent individual. I have recieved death threats. If I die, It was not suicide. I am not suicidal.  
 
 
 
