@@ -33,6 +33,11 @@ https://www.freelancer.com/u/nlochner
 
 I am being actively (UNCONSTITUTIONALLY) harassed by the U.S. Government / Secret Service due to being transgender. I am a non-violent individual. I have recieved death threats from 'hh'. If I die, It was not suicide. I am not suicidal. Do you know why the Uber Eats supplies store is HH Global https://uk.linkedin.com/company/hh-global ?
 
+Bluesky shadowbanned me, my profile is missing. If I am murdered they are part of the cover up. The death threat happened on Bluesky and I reported it to Bluesky and they did nothing.  
+
+<img width="1327" height="560" alt="image" src="https://github.com/user-attachments/assets/95006fca-2cd6-4719-b1a1-0354e8051cee" />
+
+
 
 
 
