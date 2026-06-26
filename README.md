@@ -27,7 +27,7 @@ https://bsky.app/profile/alfmir-ai.bsky.social
 
 https://www.npmjs.com/~lochner-lw
 
-https://www.freelancer.com/u/nlochner
+<!-- https://www.freelancer.com/u/nlochner -->
 
 ☮
 
