@@ -12,10 +12,6 @@ https://github.com/alfmir-ai
 
 https://github.com/lochner-lw/lochner-lw/blob/main/MOREPROJECTS.md
 
-## Contact
-
-engineering@lochner.tech
-
 ---
 
 _by [Lochner Tech](https://lochner.tech)_  
